@@ -1,0 +1,14 @@
+{
+  "name": "usdtpay/usdt-pay",
+  "description": "USDT TRC20 支付页面与到账订阅",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "UsdtPay\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
